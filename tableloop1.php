@@ -8,6 +8,9 @@
           echo "<tr>";
           echo "<td>กนกกช</td>";
           echo "</tr>";
+          echo "<tr>";
+          echo "<td>กนกกช</td>";
+          echo "</tr>";
         }
       ?>
     </table>
