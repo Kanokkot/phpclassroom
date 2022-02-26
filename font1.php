@@ -9,7 +9,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(DSNFH__.woff);
+        src: url(FC Rainbow Regular [Non-commercial use].woff);
       }
       #font1{
         font-family: myFont;
