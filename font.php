@@ -1,9 +1,9 @@
 <style>
 @font-face {
-font-family: myFirstFont;
-src: url(sansation_light.woff);
+  font-family: myFirstFont;
+  src: url(sansation_light.woff);
 }
 body{
-font-family: myFirstFont;
+  font-family: myFirstFont;
 }
 <style>
