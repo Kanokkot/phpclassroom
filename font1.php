@@ -9,7 +9,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(sansation_light.woff);
+        src: url(DSNFH__.woff);
       }
       #font1{
         font-family: myFont;
