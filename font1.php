@@ -5,11 +5,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(2547_Ddinya-08N);
+        src: url(bitter-bold-webfont.woff);
       }
       @font-face{
         font-family: myFont2;
-        src: url(DSNFH__);
+        src: url(2547_Ddinya-08N.woff);
       }
       #font1{
         font-family: myFont;
