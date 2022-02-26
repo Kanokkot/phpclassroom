@@ -5,11 +5,11 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(shining.woff);
+        src: url(2547_Ddinya-08N);
       }
       @font-face{
         font-family: myFont2;
-        src: url(FC Rainbow Regular [Non-commercial use].woff);
+        src: url(DSNFH__);
       }
       #font1{
         font-family: myFont;
