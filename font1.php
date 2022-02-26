@@ -9,7 +9,7 @@
       }
       @font-face{
         font-family: myFont2;
-        src: url(2547_Ddinya-08N.woff);
+        src: url(DSNFH__.woff);
       }
       #font1{
         font-family: myFont;
