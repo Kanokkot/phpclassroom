@@ -30,8 +30,8 @@ body { font-family: 'SanamDeklen', sans-serif; }
 <div class="container">
   <div class="row">
 <h1>นางสาวกนกกช  ดอกหอม เลขที่ 13 ม.5/13</h1>
-<h2 style="font-family: EkkamaiStandard;">นางสาวกนกกช  ดอกหอม เลขที่ 13 ม.5/13</h2>
-<h3>นางสาวกนกกช  ดอกหอม เลขที่ 13 ม.5/13</h3>
+<h1 style="font-family: EkkamaiStandard;">นางสาวกนกกช  ดอกหอม เลขที่ 13 ม.5/13</h1>
+<h1>นางสาวกนกกช  ดอกหอม เลขที่ 13 ม.5/13</h1>
 
 
  </div>
