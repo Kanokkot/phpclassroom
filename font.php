@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(DSNFH__.woff);
+        src: url(bitter-bold-webfont.woff);
       }
       @font-face{
         font-family: myFont2;
